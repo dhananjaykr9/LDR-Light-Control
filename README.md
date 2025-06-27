@@ -1,5 +1,5 @@
 
-# 🌞 LDR-Based Light Controlled LED using Arduino Mega 2560
+# 🌞 LDR-Based Light Controlled LED using Arduino Uno/Mega 2560
 
 [![Platform](https://img.shields.io/badge/platform-Arduino-blue.svg)](https://www.arduino.cc/)
 <!--[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)-->
@@ -12,7 +12,7 @@ This project uses a Light Dependent Resistor (LDR) to measure ambient light and 
 
 | Component                | Quantity |
 |--------------------------|----------|
-| Arduino Mega 2560        | 1        |
+| Arduino Uno/Mega 2560    | 1        |
 | LDR (Light Sensor)       | 1        |
 | 10kΩ Resistor            | 1        |
 | LED                      | 1 (optional, or use built-in) |
@@ -97,8 +97,6 @@ LED OFF
 ```
 
 ---
-
-
 ## 🙌 Credits
 
 Created by [Dhananjay Kharkar](https://github.com/dhananjaykr9)
