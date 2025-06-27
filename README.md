@@ -2,7 +2,7 @@
 # 🌞 LDR-Based Light Controlled LED using Arduino Mega 2560
 
 [![Platform](https://img.shields.io/badge/platform-Arduino-blue.svg)](https://www.arduino.cc/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+<!--[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)-->
 
 This project uses a Light Dependent Resistor (LDR) to measure ambient light and control an LED accordingly using an Arduino Mega 2560. It turns the LED **ON in darkness** and **OFF in light** automatically.
 
@@ -98,20 +98,9 @@ LED OFF
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙌 Credits
 
 Created by [Dhananjay Kharkar](https://github.com/dhananjaykr9)
 ---
 Feel free to fork, contribute, and improve this beginner-friendly IoT Arduino project!
-
----
-
-```
-
-
