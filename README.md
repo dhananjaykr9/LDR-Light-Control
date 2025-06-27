@@ -107,7 +107,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 🙌 Credits
 
 Created by [Dhananjay Kharkar](https://github.com/dhananjaykr9)
-
+---
 Feel free to fork, contribute, and improve this beginner-friendly IoT Arduino project!
 
 ---
