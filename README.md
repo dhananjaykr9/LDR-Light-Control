@@ -58,7 +58,6 @@ LDR-Light-Control/
 ├── images/
 │   └── circuit_diagram.png  # Circuit diagram image
 ├── README.md
-├── LICENSE
 ````
 
 ---
