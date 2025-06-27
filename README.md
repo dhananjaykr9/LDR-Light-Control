@@ -25,6 +25,8 @@ This project uses a Light Dependent Resistor (LDR) to measure ambient light and 
 
 <img src="images/circuit_diagram.png" alt="Circuit Diagram" width="400"/>
 
+> 📝 **Note:** The above circuit diagram is made using Arduino UNO, but the same wiring applies to **Arduino Mega 2560** as well — no changes in pin connections are needed.
+
 **Voltage Divider Setup:**
 
 ```
@@ -66,7 +68,7 @@ LDR-Light-Control/
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/your-username/LDR-Light-Control.git
+git clone https://github.com/dhananjaykr9/LDR-Light-Control.git
 cd LDR-Light-Control/LDE
 ```
 
